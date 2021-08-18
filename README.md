@@ -1,6 +1,7 @@
 # Pdf_Generator-in-C--with-migradoc-and-ScottPlot
 a test quest to make C# script, that generates analog of example
-Origin PDF
+
+Original PDF
 ![dffd](https://user-images.githubusercontent.com/28814889/129851981-d71670dc-a1ac-4b55-a1b0-6351055a8a85.jpg)
 
 
